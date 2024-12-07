@@ -1,3 +1,7 @@
+src/drizzle/migrations
+
+worker-configuration.d.ts
+wrangler.toml
 # Logs
 
 logs
